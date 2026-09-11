@@ -141,6 +141,7 @@ export default {
     frontierStudies: '開拓研究庫',
     faq: 'よくある質問',
     settings: '設定ページ',
+    home: 'うさぎ肉の拠点へ (new)',
     github: 'GitHub プロジェクト',
     sponsor: '電気代を支援する'
   },

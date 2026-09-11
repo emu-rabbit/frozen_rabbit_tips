@@ -141,6 +141,7 @@ export default {
     frontierStudies: 'Frontier Studies',
     faq: 'FAQ',
     settings: 'Settings',
+    home: "Visit Rabbit's Home (new)",
     github: 'GitHub Project',
     sponsor: 'Sponsor the Freezer bill'
   },

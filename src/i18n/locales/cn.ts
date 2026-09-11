@@ -141,6 +141,7 @@ export default {
     frontierStudies: '开拓研究库',
     faq: '常见问题',
     settings: '设置页面',
+    home: '前往兔肉小基地 (new)',
     github: 'GitHub 项目',
     sponsor: '赞助冷冻库电费'
   },

@@ -142,6 +142,7 @@ export default {
     frontierStudies: '開拓研究庫',
     faq: '常見問題',
     settings: '設定頁面',
+    home: '前往兔肉小基地 (new)',
     github: 'GitHub 專案',
     sponsor: '贊助冷凍庫電費'
   },
